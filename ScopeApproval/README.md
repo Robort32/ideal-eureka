@@ -1,4 +1,5 @@
 <img src="https://github.com/Robort32/ideal-eureka/blob/main/Robort32Logo.png">
+
 # Group 7 - Scope Approval Outline
 
 _Holly, Matthew & Gloria_
