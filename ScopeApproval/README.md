@@ -49,6 +49,6 @@ see http://api.tvmaze.com/search/shows?q=girls
 
 **stretch goals in red**
 
-<img src="https://github.com/Robort32/ProjectTwoMain/blob/main/ScopeApproval/FunPunDesktop.png" alt="wireframe desktop group 7">
+<img src="https://github.com/Robort32/ideal-eureka/blob/main/ScopeApproval/FunPunDesktop.png" alt="wireframe desktop group 7">
 
-<img src="https://github.com/Robort32/ProjectTwoMain/blob/main/ScopeApproval/FunPunMobile.png">
+<img src="https://github.com/Robort32/ideal-eureka/blob/main/ScopeApproval/FunPunMobile.png" alt="wireframe mobile group 7">
